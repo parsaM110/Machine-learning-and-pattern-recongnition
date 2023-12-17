@@ -56,5 +56,16 @@ https://tommyodland.com/files/edu/duda_solutions.pdf
 - https://www.cs.princeton.edu/courses/archive/spr08/cos424/scribe_notes/0311.pdf
 - https://stats.stackexchange.com/questions/64962/motivation-of-expectation-maximization-algorithm
 - https://see.stanford.edu/materials/aimlcs229/cs229-notes8.pdf
-- 
 
+
+# SVM
+- https://www.cs.cmu.edu/~aarti/Class/10315_Fall20/lecs/svm_dual_kernel.pdf
+## Kernels
+- https://www.cs.cmu.edu/~ninamf/ML11/lect1020.pdf
+- https://mlweb.loria.fr/book/en/constructingkernels.html
+- https://stats.stackexchange.com/questions/270967/proof-of-sum-of-kernels-of-concatenated-vector
+- https://cseweb.ucsd.edu/classes/wi20/cse151A-a/hw5sol.pdf
+
+# Logestic Regression 
+- https://www.cs.cmu.edu/~aarti/Class/10701_Spring14/assignments/assignment_1.pdf
+- https://www.cs.cmu.edu/~aarti/Class/10701_Spring14/assignments/hw1_solution.pdf
