@@ -65,7 +65,7 @@ https://tommyodland.com/files/edu/duda_solutions.pdf
 - https://mlweb.loria.fr/book/en/constructingkernels.html
 - https://stats.stackexchange.com/questions/270967/proof-of-sum-of-kernels-of-concatenated-vector
 - https://cseweb.ucsd.edu/classes/wi20/cse151A-a/hw5sol.pdf
-
+- (seems like good stuff) https://las.inf.ethz.ch/courses/introml-s20/tutorials/tutorial5-kernels2.pdf
 # Logestic Regression 
 - https://www.cs.cmu.edu/~aarti/Class/10701_Spring14/assignments/assignment_1.pdf
 - https://www.cs.cmu.edu/~aarti/Class/10701_Spring14/assignments/hw1_solution.pdf
